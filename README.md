@@ -1,6 +1,6 @@
 # A-progressive-Web-App
 
-DEPLOYED ON :
+SEE :
 https://weather-pwa-sample.firebaseapp.com/final/
 
 This is a simple weather application.
